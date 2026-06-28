@@ -7,7 +7,7 @@
 
 > Vibe the Coding...
 
-## 📊 Tech Radar
+## Tech Radar
 
 ```python
 class Developer:
@@ -30,6 +30,7 @@ class Developer:
             "devops": {
                 "Cloud": "AWS",
                 "Container": "Docker"
+            "OS": ["Windows", "MacOS", "Linux"]
             };
         }
     
@@ -42,10 +43,10 @@ class Developer:
         ]
 
 me = Developer()
-print(f"Hello World, I'm K!")
+print(f"Hello World, I'm Furqan!")
 ```
 
-## 🚀 Mission Control
+## Mission Control
 
 <table>
   <tr>
@@ -72,7 +73,7 @@ print(f"Hello World, I'm K!")
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
 
-## 🧰 Toolbox
+## Toolbox
 
 <div align="center">
   <!-- Frontend -->
@@ -96,7 +97,7 @@ print(f"Hello World, I'm K!")
   <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" /></a>
 </div>
 
-## 🤖 AI & Developer Tools
+## AI & Developer Tools
 
 <div align="center">
   <table width="100%">
@@ -144,7 +145,6 @@ print(f"Hello World, I'm K!")
       <td>
         <h3>Data Architecture</h3>
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-        <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
         <p>Designing efficient database schemas and API structures</p>
       </td>
     </tr>
