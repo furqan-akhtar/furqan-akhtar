@@ -3,16 +3,16 @@
  <br>
 </div>
 
-# 👾 K's Digital Playground
+# 👾 My Digital Playground
 
-> From ideas to code: Jarvis? Yes we living in world where AI is gonna make our development easier and way better.
+> Vibe the Coding...
 
 ## 📊 Tech Radar
 
 ```python
 class Developer:
     def __init__(self):
-        self.name = "K"
+        self.name = "Furqan"
         self.role = "SWE"
         self.languages = ["Python", "JavaScript", "Java", "HTML", "CSS"]
         self.stack = {
@@ -27,6 +27,10 @@ class Developer:
             },
             "database": ["MySQL", "PostgreSQL"],
             "tools": ["VS Code", "Cursor AI", "Claude", "V0"]
+            "devops": {
+                "Cloud": "AWS",
+                "Container": "Docker"
+            };
         }
     
     def daily_routine(self):
