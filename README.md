@@ -127,8 +127,8 @@ print(f"Hello World, I'm Furqan!")
 ## 📈 Project Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdotorg&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdotorg&layout=compact&theme=radical" alt="Most Used Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=furqan-akhtar&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furqan-akhtar&layout=compact&theme=radical" alt="Most Used Languages"/>
 </div>
 
 ## 🔮 Future Quest Log
